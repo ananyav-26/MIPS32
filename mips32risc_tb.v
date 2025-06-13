@@ -1,3 +1,7 @@
+//==============================================================================
+// Title      : MIPS32 Pipelined Processor Testbench
+// Author     : Ananya Vaidya
+//==============================================================================
 module test_mips32;
   reg clk1, clk2;
   integer k;
