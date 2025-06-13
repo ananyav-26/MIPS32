@@ -1,3 +1,7 @@
+//==============================================================================
+// Title      : MIPS32 Pipelined Processor
+// Author     : Ananya Vaidya
+//==============================================================================
 module pipe_MIPS32 (clk1, clk2);
   input clk1, clk2; // Two-phase clock
 
